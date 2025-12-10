@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
         <title>Current Photo/Video Trends</title>
     </head>
-    <body>
+    <body> 
+        <a href="assignment1.html">Assignment 1</a>
         <h1 style="color: red;">Current Photo/Video Trends</h1>
         <h2>With AI</h2h2>
         <p>Without AI</p>
