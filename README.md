@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Current Photo/Video Trends</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body> 
         <a href="assignment1.html">Assignment 1</a>
         <h1 style="color: red;">Current Photo/Video Trends</h1>
-        <h2>With AI</h2h2>
+        <h2>With AI</h2>
         <p>Without AI</p>
         <a href="page.html">Link</a>
         <video controls>
