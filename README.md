@@ -3,14 +3,9 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="styles.css">
     </head>
-    <body> 
+    <body>
+        <a href="homework.html">Homework</a>
         <a href="assignment1.html">Assignment 1</a>
-        <h1 style="color: red;">Current Photo/Video Trends</h1>
-        <h2>With AI</h2>
-        <p>Without AI</p>
         <a href="page.html">Link</a>
-        <video controls>
-            <source src="The IT Crowd S01E01 Yesterdays Jam DVDRip BONE.mp4">
-        </video>
     </body>
 </html>
